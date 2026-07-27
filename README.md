@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3536-maximum-product-of-two-digits) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
