@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0014-longest-common-prefix) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
+| [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
 ## Divide and Conquer
 |  |
 | ------- |
