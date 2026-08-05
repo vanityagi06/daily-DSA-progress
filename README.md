@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1406-stone-game-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0014-longest-common-prefix) |
+| [0171-excel-sheet-column-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
