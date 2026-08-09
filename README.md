@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0014-longest-common-prefix) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0151-reverse-words-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
