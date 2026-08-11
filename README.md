@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
