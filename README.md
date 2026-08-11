@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1406-stone-game-iii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
