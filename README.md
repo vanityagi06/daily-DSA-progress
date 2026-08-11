@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0060-permutation-sequence) |
 | [0171-excel-sheet-column-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
