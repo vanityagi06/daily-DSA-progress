@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0771-jewels-and-stones) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
