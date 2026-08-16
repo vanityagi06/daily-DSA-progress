@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1903-largest-odd-number-in-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3536-maximum-product-of-two-digits) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
 | [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,15 +206,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
