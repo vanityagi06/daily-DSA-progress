@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0771-jewels-and-stones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
