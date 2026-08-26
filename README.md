@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -240,4 +241,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0455-assign-cookies) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2523-closest-prime-numbers-in-range) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
