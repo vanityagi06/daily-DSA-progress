@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1140-stone-game-ii) |
+| [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
 | [1406-stone-game-iii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1406-stone-game-iii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1563-stone-game-v) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0436-find-right-interval](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0436-find-right-interval) |
 | [0981-time-based-key-value-store](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
@@ -269,4 +272,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
