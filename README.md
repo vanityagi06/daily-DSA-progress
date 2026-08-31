@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
 | [1406-stone-game-iii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1406-stone-game-iii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
