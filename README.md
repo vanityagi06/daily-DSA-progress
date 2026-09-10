@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0435-non-overlapping-intervals) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0062-unique-paths) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Quicksort
 |  |
