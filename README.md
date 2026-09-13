@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1046-last-stone-weight) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0835-image-overlap) |
 ## Union-Find
 |  |
 | ------- |
