@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0917-reverse-only-letters) |
 | [0981-time-based-key-value-store](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
