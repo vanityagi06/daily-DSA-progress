@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3536-maximum-product-of-two-digits](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0658-find-k-closest-elements) |
 | [0917-reverse-only-letters](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0917-reverse-only-letters) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quickselect
 |  |
