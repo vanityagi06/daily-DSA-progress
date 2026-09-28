@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0436-find-right-interval) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0611-valid-triangle-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
@@ -343,5 +346,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
