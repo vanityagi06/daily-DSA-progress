@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
 | [1406-stone-game-iii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1406-stone-game-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0658-find-k-closest-elements) |
 | [0981-time-based-key-value-store](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0912-sort-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0658-find-k-closest-elements) |
 | [0917-reverse-only-letters](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0917-reverse-only-letters) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quickselect
