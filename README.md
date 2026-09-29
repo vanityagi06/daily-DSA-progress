@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
