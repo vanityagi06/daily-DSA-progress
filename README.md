@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0014-longest-common-prefix) |
 | [0064-minimum-path-sum](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0200-number-of-islands) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0611-valid-triangle-number) |
