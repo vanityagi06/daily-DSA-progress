@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1146-snapshot-array) |
+| [1254-number-of-closed-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1254-number-of-closed-islands) |
 | [1406-stone-game-iii](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1406-stone-game-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -254,11 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -341,11 +344,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
