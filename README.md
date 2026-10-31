@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3665-twisted-mirror-path-count](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3903-smallest-stable-index-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/vanityagi06/daily-DSA-progress/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanityagi06/daily-DSA-progress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/vanityagi06/daily-DSA-progress/tree/master/3665-twisted-mirror-path-count) |
 ## Union-Find
 |  |
 | ------- |
