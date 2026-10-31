@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0135-candy) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0611-valid-triangle-number) |
