@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0877-stone-game) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0354-russian-doll-envelopes) |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0354-russian-doll-envelopes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vanityagi06/daily-DSA-progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
